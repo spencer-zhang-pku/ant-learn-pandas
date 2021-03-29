@@ -163,7 +163,7 @@ pycurl==7.43.0.5
 pyecharts==1.7.1
 pyee==7.0.1
 pyflakes==2.1.1
-Pygments==2.5.2
+Pygments==2.7.4
 pylint==2.4.4
 PyMySQL==0.9.3
 pyodbc===4.0.0-unsupported
