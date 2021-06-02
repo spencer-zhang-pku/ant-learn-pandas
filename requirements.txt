@@ -239,7 +239,7 @@ tornado==6.0.3
 tqdm==4.42.1
 traitlets==4.3.3
 unicodecsv==0.14.1
-urllib3==1.25.8
+urllib3==1.26.5
 vboxapi==1.0
 Wand==0.5.9
 wcwidth==0.1.8
